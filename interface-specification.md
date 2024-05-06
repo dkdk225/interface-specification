@@ -37,9 +37,9 @@ This indicates the requirements of new user form.
 - System should have a save user button on click it should add user to the table according to the inputs of new user form.
 - System should have a checkmark with label "Hide Disabled User" that hides the users with enabled:false value.
 
- #### New User Interface
+ #### Edit User Interface
 This indicates the requirements of new user form.
-- System should have a header writing new user that indicates the purpose of the menu.
+- System should have a header writing edit user that indicates the purpose of the menu.
 - System should have a textfield requesting user name.
 - System should have a textfield requesting display name.
 - System should have a textfield requesting phone number.
